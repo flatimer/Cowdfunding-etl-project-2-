@@ -1,5 +1,5 @@
-
 Crowdfunding_ETL -- PROJECT 2
+
 Team Members: Alejandra Gomez, Francisco Latimer, Dominic Marin
 Create the Category and Subcateogry DataFrames
 Create the Campaign DataFrame
